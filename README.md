@@ -1,4 +1,4 @@
-# Grub2 Theme EndeavourOS
+# Grub2 Theme EndeavourOS – Old Theme
 ###### Original AUTHOR: [vinceliuice](http://gnome-look.org/content/show.php/Grub-themes-vimix?content=169954)
 ###### AUTHOR: [EndeavourOS-team](https://github.com/endeavouros-team)
 ###### forked from Se7endAY/grub2-theme-vimix
