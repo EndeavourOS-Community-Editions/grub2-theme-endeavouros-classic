@@ -8,11 +8,6 @@ New Theme:
 GRUB_THEME="/boot/grub/themes/EndeavourOS/theme.txt"
 ```
 
-Old Theme:
-```shell
-GRUB_THEME="/boot/grub/themes/EndeavourOS/theme.txt"
-```
-
 #### Update grub :
 ```shell
 sudo grub-mkconfig -o /boot/grub/grub.cfg
