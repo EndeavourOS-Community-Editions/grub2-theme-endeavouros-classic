@@ -17,8 +17,5 @@ GRUB_THEME="/boot/grub/themes/EndeavourOS/theme.txt"
 ```shell
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
-#### Previews :
-New Theme:
-![alt text](https://raw.githubusercontent.com/endeavouros-team/grub2-theme-endeavouros/master/preview.png "preview")
-Old Theme:
-![alt text](https://raw.githubusercontent.com/endeavouros-team/grub2-theme-endeavouros/master/preview-old.png "preview-old")
+#### Preview
+![alt text](https://raw.githubusercontent.com/lesnake04/grub2-theme-endeavouros/master/preview-old.png "preview")
