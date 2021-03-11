@@ -10,6 +10,7 @@ git clone https://github.com/EndeavourOS-Community-Editions/grub2-theme-endeavou
 cd grub2-theme-endeavouros-classic
 makepkg -si
 ```
+To make it used:
 #### Edit /etc/default/grub :
 ```shell
 GRUB_THEME="/boot/grub/themes/EndeavourOS/theme.txt"
