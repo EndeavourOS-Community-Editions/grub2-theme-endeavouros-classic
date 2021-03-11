@@ -1,8 +1,9 @@
 # Grub2 Theme EndeavourOS – Old Theme
+
+###### Classic fork created by LeSnake04
 ###### Original AUTHOR: [vinceliuice](http://gnome-look.org/content/show.php/Grub-themes-vimix?content=169954)
 ###### AUTHOR: [EndeavourOS-team](https://github.com/endeavouros-team)
 ###### forked from Se7endAY/grub2-theme-vimix
-###### Classic fork created by LeSnake04
 #### Edit /etc/default/grub :
 ```shell
 GRUB_THEME="/boot/grub/themes/EndeavourOS/theme.txt"
